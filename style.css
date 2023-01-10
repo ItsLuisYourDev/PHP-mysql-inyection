@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    justify-content: center;
+}
+.contForm{
+    background-color: darkgrey;
+    text-align: center;
+
+}
+.formDatos{
+    display: flex;
+    flex-direction: column;
+
+}
