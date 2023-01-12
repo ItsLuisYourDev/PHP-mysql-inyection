@@ -12,3 +12,7 @@ form{
     flex-direction: column;
 
 }
+.tablaStilo{
+    width: 400px !important;
+
+}

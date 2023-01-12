@@ -10,9 +10,9 @@ $servername = "localhost";
 $database = "user";
 $username = "root";
 $password = "";
-// Create connection
+//! Crear con
 $conn = mysqli_connect($servername, $username, $password, $database);
-// Check connection
+// ! Chequear con
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
